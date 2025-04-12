@@ -11,7 +11,5 @@ GIF Integration: A dynamic GIF showcasing the project's interactivity.
 
 # Screenshot
 
-![Uploading Coffe-Shop.gif…]()
-
-
+![Uploading coffeshopClipchampileyapld-ezgif.com-video-to-gif-converter.gif…]()
 
