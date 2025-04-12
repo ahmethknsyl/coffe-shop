@@ -12,4 +12,4 @@ GIF Entegrasyonu: Projenin dinamikliğini gösteren bir GIF ile görsel destek.
 # Ekran Görüntüsü
 
 ![coffeshopClipchampileyapld-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/da7bec29-2d94-419a-9829-67da908a9b7b)
-rüntüsü
+
