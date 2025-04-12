@@ -1,15 +1,17 @@
 # coffe-shop
 
-Bu proje, modern bir kahve dükkanı web sitesi arayüzüdür. HTML ve CSS kullanılarak tamamen responsive bir tasarım oluşturulmuştur. Hover efektleriyle zenginleştirilmiş kullanıcı dostu bir deneyim sunar.
+This project is a modern coffee shop website interface built using HTML and CSS. It features a fully responsive design with interactive hover effects to enhance the user experience.
 
-# Proje Özellikleri 
+# Project Features
 
-Responsive Tasarım: Mobil, tablet ve masaüstü cihazlarla uyumlu.
-Hover Efektleri: Menü, butonlar ve kartlarda etkileşimli hover animasyonları.
-Temiz ve Modern Arayüz: Minimalist bir tasarım yaklaşımıyla kullanıcı odaklı.
-GIF Entegrasyonu: Projenin dinamikliğini gösteren bir GIF ile görsel destek.
+Responsive Design: Compatible with mobile, tablet, and desktop devices.
+Hover Effects: Interactive animations on menus, buttons, and cards.
+Clean and Modern UI: Minimalist design focused on user experience.
+GIF Integration: A dynamic GIF showcasing the project's interactivity.
 
-# Ekran Görüntüsü
+# Screenshot
 
-![coffeshopClipchampileyapld-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/da7bec29-2d94-419a-9829-67da908a9b7b)
+![Uploading Coffe-Shop.gif…]()
+
+
 
