@@ -9,6 +9,6 @@ Hover Effects: Interactive animations on menus, buttons, and cards.
 Clean and Modern UI: Minimalist design focused on user experience.
 GIF Integration: A dynamic GIF showcasing the project's interactivity.
 
-# Screenshot
+# Screen GIF
 ![coffeshopClipchampileyapld-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3a4edfdb-7688-4312-b7f3-cfde2508d7c5)
 
